@@ -2,6 +2,8 @@
 
 This is a very simple Arduino program that sings the Game of Thrones theme song with a buzzer and LEDs.
 
+Original arduino code found here: https://pastebin.com/q76D0asp
+
 I will try to include a better circuit diagram, but for now:
 * Connect the negative of the buzzer to ground and the positive of the buzzer to pin A0.
 * Connect the shorter legs of the LEDs to ground, via a 330 ohmns resistor.
